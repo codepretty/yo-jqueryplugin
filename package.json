@@ -1,0 +1,14 @@
+{
+  "name": "generator-jqueryplugin",
+  "version": "0.0.0",
+  "description": "Setup barebones jquery plugin",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "codepretty",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "yeoman-generator": "^0.17.7",
+    "yosay": "^0.3.0"
+  }
+}
